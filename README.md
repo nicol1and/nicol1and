@@ -26,7 +26,7 @@
 
  </a>
 
- <a href="mailto:nicoliandrademaciel@gmail.com">
+<a href="mailto:nicoliandrademaciel@gmail.com?subject=Olá!&body=Escrevi porque...">Me envie um e-mail</a>
 
   <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 
