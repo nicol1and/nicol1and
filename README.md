@@ -25,12 +25,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 
  </a>
+ 
+  <a href="mailto:nicoliandrademaciel@gmail.com?subject=Olá!&body=Escrevi porque...">
+    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-<a href="mailto:nicoliandrademaciel@gmail.com?subject=Olá!&body=Escrevi porque..."></a>
-
-  <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-
- </a>
 
 </p>
 
