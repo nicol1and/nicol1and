@@ -26,7 +26,7 @@
 
  </a>
 
- <a href="mailto:seu-email@exemplo.com">
+ <a href="mailto:nicoliandrademaciel@gmail.com">
 
   <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 
