@@ -1,6 +1,6 @@
 <p align="center">
 
- <img src="https://i.pinimg.com/736x/a0/01/9e/a0019ef609f8cbd7fdf4f708f2239675.jpg" alt="Banner Rosa"/>
+ <img src="https://i.imgur.com/JNGZoqR.gif" alt="Banner Rosa"/>
 
 </p>
 
